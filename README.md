@@ -25,8 +25,7 @@
   <a href = "https://api.whatsapp.com/send?phone=5541995341904&text=Ol%C3%A1%2C%20vi%20seu%20an%C3%BAncio%20no%20site!"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-256.png" height="40" width="40" target="_blank"></a>
   <a href="https://linkedin.com/in/johnny-carvalho-em" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" height="40" width="40" target="_blank"></a> 
   <a href="https://twitter.com/JohnnyCarvalhoD" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" height="40" width="40" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/JohnnyCarvalho/JohnnyCarvalho/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  ![Snake animation](https://github.com/JohnnyCarvalhoDev/JohnnyCarvalhoDev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
