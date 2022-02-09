@@ -1,5 +1,5 @@
 <h2> Hi, my name is Johnny and i am software engineering student at PUCPR!</h2>
-##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Johnny-Java" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png">
@@ -26,6 +26,6 @@
   <a href="https://linkedin.com/in/johnny-carvalho-em" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" height="40" width="40" target="_blank"></a> 
   <a href="https://twitter.com/JohnnyCarvalhoD" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" height="40" width="40" target="_blank"></a>
   
-  ![Snake animation](https://github.com/JohnnyCarvalhoDev/JohnnyCarvalhoDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JohnnyCarvalho/JohnnyCarvalho/blob/output/github-contribution-grid-snake.svg)
 </div>
 
